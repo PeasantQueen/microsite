@@ -18,15 +18,12 @@ email: doakes@my.dom.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a group project for LIS786 creating a microsite for a 3D printing lab at Dominican University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://peasantqueen.github.io/microsite/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pqdanielle
 github_username:  peasantqueen
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
